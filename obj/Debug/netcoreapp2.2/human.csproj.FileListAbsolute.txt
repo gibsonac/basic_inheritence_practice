@@ -1,0 +1,22 @@
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/bin/Debug/netcoreapp2.2/human.deps.json
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.json
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.dev.json
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/bin/Debug/netcoreapp2.2/human.dll
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/bin/Debug/netcoreapp2.2/human.pdb
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/obj/Debug/netcoreapp2.2/human.csprojAssemblyReference.cache
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/obj/Debug/netcoreapp2.2/human.csproj.CoreCompileInputs.cache
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/obj/Debug/netcoreapp2.2/human.AssemblyInfoInputs.cache
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/obj/Debug/netcoreapp2.2/human.AssemblyInfo.cs
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/obj/Debug/netcoreapp2.2/human.dll
+/Users/Gibby540/Desktop/CodingDojo/C#.NET/human/obj/Debug/netcoreapp2.2/human.pdb
+/Users/Gibby540/Downloads/human 2/bin/Debug/netcoreapp2.2/human.deps.json
+/Users/Gibby540/Downloads/human 2/bin/Debug/netcoreapp2.2/human.runtimeconfig.json
+/Users/Gibby540/Downloads/human 2/bin/Debug/netcoreapp2.2/human.runtimeconfig.dev.json
+/Users/Gibby540/Downloads/human 2/bin/Debug/netcoreapp2.2/human.dll
+/Users/Gibby540/Downloads/human 2/bin/Debug/netcoreapp2.2/human.pdb
+/Users/Gibby540/Downloads/human 2/obj/Debug/netcoreapp2.2/human.csprojAssemblyReference.cache
+/Users/Gibby540/Downloads/human 2/obj/Debug/netcoreapp2.2/human.csproj.CoreCompileInputs.cache
+/Users/Gibby540/Downloads/human 2/obj/Debug/netcoreapp2.2/human.AssemblyInfoInputs.cache
+/Users/Gibby540/Downloads/human 2/obj/Debug/netcoreapp2.2/human.AssemblyInfo.cs
+/Users/Gibby540/Downloads/human 2/obj/Debug/netcoreapp2.2/human.dll
+/Users/Gibby540/Downloads/human 2/obj/Debug/netcoreapp2.2/human.pdb
